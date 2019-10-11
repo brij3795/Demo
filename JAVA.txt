@@ -1,0 +1,59 @@
+What are the Rules for defining a constructor?constructor
+What is the use of Private Constructors in Java?constructor
+Can we have a Constructor in an Interface?constructor
+What is Constructor Chaining in Java?constructor
+Can a Constructor return any value ?constructor
+Can an abstract class in Java have a constructor?constructor
+Why constructors cannot be final in Java?constructor
+Why constructors cannot be abstract in Java?constructor
+Why constructors cannot be static in Java?constructor
+What is Java JDK, JRE and JVM?jvm
+when i will use only jdk and when jre, jvm?jvm
+Explain public static void main(String args[]) in Java?core
+Why Java is platform independent?core
+what is static{} in java?core
+what is {} in java?core
+Execution order of static{}, {}, constructor?core
+What is abstract method in Java?abstract
+When Is An Abstract Method Used?abstract
+Is it necessary for abstract class to have abstract method?abstract
+How To Define An Abstract Class?abstract
+Can you create instance of abstract class?abstract
+Can we declare an interface with the abstract keyword?abstract
+Can We Declare Abstract Method In Non-abstract Class?abstract
+Can abstract class have constructors in Java?abstract
+Abstract Class Vs Interface?abstract
+What Will Happen If We Do Not Override All The Abstract Methods In Sub-class?abstract
+Does interface extend Object class by default?abstract
+Can We Declare Abstract Method As Static?abstract
+Can We Declare Abstract Method As Private?abstract
+Can An Interface Be Extended By Another Interface In Java?abstract
+Can abstract class implements interface in Java?abstract
+Does they require to implement all methods (but Test class needs to oveeride interface method)?abstract
+Can abstract class contains main method in Java?abstract
+Can abstract class be final in Java?abstract
+What are different types of Inheritance supported by Java?inheritance
+Why Java doesn't support multiple inheritance and why only through interface?inheritance
+Can a class extend itself?inheritance
+What happens if we write this() as a first statement in our constructor?inheritance
+Can constructor have both super() & this()?inheritance
+How do you prevent a field or a method of any class from inheriting to sub classes?inheritance
+Can Constructors also be inherited to sub classes?inheritance
+Can we override static method in Java?inheritance
+Can we overload a static method in Java?inheritance
+Can we override a private method in Java?inheritance
+Can an interface extends more than one interface in Java?inheritance
+What will happen if a class extends two interfaces and they both have a method with same name and signature?inheritance
+What is Encapsulation in Java and Why is it called Data hiding?Encapsulation
+How to achieve Data hiding programmatically?Encapsulation
+What is the difference between Abstraction and Encapsulation?Encapsulation
+What is polymorphism and what are the types of it?polymorphism
+Method signature consists of?polymorphism
+Can we override protected method as private?polymorphism
+Does Java support operator overloading?polymorphism
+Can we access super class version of overridden method in the sub class. If yes, how?polymorphism
+Can we remove throws clause of a method while overriding it?polymorphism
+What are the possible access modifiers a protected method can have if it is overridden in the sub class?polymorphism
+Is String a keyword in java?string
+What is string constant pool?,string
+Why String is Immutable in Java?string
